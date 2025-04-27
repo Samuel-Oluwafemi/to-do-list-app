@@ -11,7 +11,7 @@ It allows users to:
 
 ## 🔗 Live Demo
 Check out the live version here:  
-[View Live App](https://samuel-oluwafemi.github.io/todo-list-app/)
+[View Live App](https://samuel-oluwafemi.github.io/to-do-list-app/)
 
 ## 🚀 Features
 - Add new tasks using the "+" button
